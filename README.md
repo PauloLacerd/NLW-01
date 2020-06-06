@@ -50,5 +50,5 @@ Para realizar o teste da aplicação **WEB** e **MOBILE** você irá precisar te
 5. Com o aplicativo do [Expo](https://expo.io/) instalado em seu celular basta iniciar ele e clicar em **Scan QR Code** e apontar a câmera do seu celular para o **QR code** que irá ser gerado na aba do expo no seu navegador.
 
 ## :telephone_receiver: Contatos
-- [Linkedin](www.linkedin.com/in/paulo-victor-vasconcelos-de-lacerda)
+- [LinkedIn](https://www.linkedin.com/in/paulo-victor-vasconcelos-de-lacerda-f45sf2)
 - [Discord](https://discord.com/channels/@Paulo_Lacerd#9503)
